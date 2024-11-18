@@ -19,7 +19,7 @@
     </aside>
     <div class="column-responsive column-80">
         <div class="machines form content">
-            <?= $this->Form->create($machine) ?>
+            <?= $this->Form->create($machine) ?>pipi 
             <fieldset>
                 <legend><?= __('Edit Machine') ?></legend>
                 <?php
