@@ -48,6 +48,7 @@ class ReservationsTable extends Table
         $this->belongsTo('Users', [
             'foreignKey' => 'user_id',
             'joinType' => 'INNER',
+            'className' => 'CakeDC/Users.Users'
         ]);
         $this->belongsTo('Machines', [
             'foreignKey' => 'machine_id',

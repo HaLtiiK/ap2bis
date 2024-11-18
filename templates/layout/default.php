@@ -41,12 +41,13 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
         <div class="top-nav-links">
             <a  rel="noopener" href="https://book.cakephp.org/4/">Documentation</a>
             <a  rel="noopener" href="https://api.cakephp.or.g/">API</a>
-            <a  rel="noopener" href="http://localhost/ap2cake/users/index">Users</a>
-            <a  rel="noopener" href="http://localhost/ap2cake/games">Games</a>
-            <a  rel="noopener" href="http://localhost/ap2cake/reservations">Reservations</a>
-            <a  rel="noopener" href="http://localhost/ap2cake/maintenances">Maintenances</a>
-            <a  rel="noopener" href="http://localhost/ap2cake/machines">Machines</a>
-            <a  rel="noopener" href="http://localhost/ap2cake/packages">Packages</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/users/index">Users</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/games">Games</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/reservations">Reservations</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/maintenances">Maintenances</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/machines">Machines</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/packages">Packages</a>
+            <a  rel="noopener" href="http://localhost/ap2bis/logout">Déconnexion</a>
         </div>
     </nav>
     <main class="main">
